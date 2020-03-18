@@ -1,5 +1,5 @@
 from selenium import webdriver
-driver=webdriver.Chrome("C:\\Users\\Adarsh\\Downloads\\chromedriver_win32 (1)\\chromedriver.exe")
+driver=webdriver.Chrome("C:\\Users\\Adarsh\\Downloads\\chromedriver_win32 (1)\\chromedriver.exe") #path to chrome web driver
 driver.get("https://web.whatsapp.com/")
 import time
 import xlrd
